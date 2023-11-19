@@ -18,6 +18,14 @@ $ python3 CVE-2023-46214.py --url <Splunk_URL> --username <Username> --password 
     - Note: another vector might be possible, this is just what I used
 - Splunk is not running on SHC mode
 
+## Analysis
+
+I've written a blog post detailing the methodology taken to uncover this vulnerability. If you are running into any issues with the script, the blog could be helpful as it details the manual steps for exploitation. 
+
+[Analysis of CVE-2023-46214 + PoC](https://blog.hrncirik.net/cve-2023-46214-analysis)
+
+
+
 ## Legal Disclaimer
 
 The Proof of Concept (PoC) script provided in this repository serves solely for educational and research objectives. Its purpose is to showcase a specific vulnerability and aid in comprehending associated security risks.
