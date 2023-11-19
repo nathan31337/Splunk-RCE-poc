@@ -1,6 +1,6 @@
 # Splunk RCE - PoC
 
-Proof of concept exploit for recent [CVE-2023-46214](https://nvd.nist.gov/vuln/detail/CVE-2023-46214), [SVD-2023-1104](https://advisory.splunk.com/advisories/SVD-2023-1104)
+Proof of concept exploit for [CVE-2023-46214](https://nvd.nist.gov/vuln/detail/CVE-2023-46214), [SVD-2023-1104](https://advisory.splunk.com/advisories/SVD-2023-1104)
 
 ![poc](screenshots/poc.gif)
 
